@@ -1,0 +1,22 @@
+c:\users\natalia\documents\visual studio 2013\Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe.config
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Form1.resources
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.pdb
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.exe
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.pdb
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Money.resources
+C:\Users\Natalia\Documents\Visual Studio 2013\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Service_mode.resources
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe.config
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.exe
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.pdb
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.pdb
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Form1.resources
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Money.resources
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Service_mode.resources
+E:\BackupVendingMachine\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache
